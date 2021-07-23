@@ -1,0 +1,48 @@
+body {
+  background-image: url("/image/bg-6.png");
+  background-repeat: no-repeat;
+  background-position-x: center;
+}
+
+.card {
+  position: absolute;
+  left: 850px;
+}
+
+.icon__heart {
+}
+
+.container__price {
+  background-color: white;
+  width: 280px;
+  height: 130px;
+  position: absolute;
+  right: 20px;
+  top: 265px;
+  border-radius: 15px;
+}
+
+.container__content {
+  padding: 10px 20px;
+}
+
+.container__rating {
+  color: lightgrey;
+  font-size: 0.8rem;
+}
+
+.name {
+  padding-top: 10px;
+  font-size: 1.5rem;
+}
+
+.name > .subname {
+  font-size: 0.9rem;
+  color: lightgrey;
+}
+
+.price {
+  padding-top: 10px;
+  font-size: 1.3rem;
+  color: #34402E;
+}

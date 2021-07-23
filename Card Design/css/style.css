@@ -1,0 +1,60 @@
+.container__image {
+  text-align: center;
+  font-family:sans-serif;
+}
+
+.sticker__name {
+  text-transform: uppercase;
+  display: inline;
+  position: relative;
+  bottom: 380px;
+  left: 700px;
+  background-color: white;
+  border-radius: 6px;
+  padding: 5px 11px 5px 11px;
+}
+
+.block__info {
+  text-transform: capitalize;
+  position: relative;
+  right: 205px;
+  bottom: 70px;
+}
+
+.time {
+  color: aqua;
+  margin: 10px;
+  bottom: 180px;
+  position: relative;
+}
+
+.city {
+  color: white;
+  font-size: 2rem;
+  position: relative;
+  left: 56px;
+  letter-spacing: 2px;
+  bottom: 180px;
+}
+
+.button__view_trip {
+  position: relative;
+  bottom: 280px;
+  left: 280px;
+  padding: 10px 30px 10px 30px;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #474aff , #036cfd);
+  border-color: #474aff;
+  cursor: pointer;
+  color: white;
+}
+
+.side {
+  display: inline-block;
+  width: 5px;
+  position: relative;
+  height: 100px;
+  background-color: aqua;
+  right: 120px;
+  bottom: 80px;
+}
